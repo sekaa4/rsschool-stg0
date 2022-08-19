@@ -12,3 +12,9 @@
 
 *I believe, that my capacity to learn and acquire new skills will help me to become a front-end developer.*
 ***
+### __Skills__
+* HTML5, CSS3
+* JavaScript(Basic)
+* Git, GitHub
+* VS Code
+***
