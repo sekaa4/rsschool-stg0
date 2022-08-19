@@ -45,3 +45,7 @@ function getCount(str) {
 
 [id]:https://www.freecodecamp.org/
 ***
+### __Languages__
++ English - A2
++ Polish - Basic
++ Russian - Native
